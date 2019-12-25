@@ -5,8 +5,8 @@ import Layout from '../components/layout'
 
 export default () => (
   <Layout>
-    <h1>Hello Arizona</h1>
-    <p>More text content here.</p>
-    <Link to="/about/">&rarr; About</Link>
+    <h1>Hello</h1>
+    <p>Gatsby Intro</p>
+    <Link href="/">&larr; back to home</Link>
   </Layout>
 )
